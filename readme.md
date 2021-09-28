@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love make discord bots!
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matireczek&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matireczunio&theme=radical)
 
 [website]: https://matireczek.tk
 [twitter]: https://twitter.com/matireczek
