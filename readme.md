@@ -8,12 +8,7 @@
 - ⚡ Fun fact: I love make discord bots!
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="matireczek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=matireczek&show_icons=true&hide_border=true" />
-
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matireczek&theme=radical)
 
 [website]: https://matireczek.tk
 [twitter]: https://twitter.com/matireczek
