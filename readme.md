@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A 14 year old developer from India</h3>
+<h3 align="center">A 14 year old developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matireczunio&label=Profile%20views&color=0e75b6&style=flat" alt="matireczunio" /> </p>
 
