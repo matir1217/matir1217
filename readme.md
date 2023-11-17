@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A 14 year old developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm Matt</h1>
+<h3 align="center">A young developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matireczunio&label=Profile%20views&color=0e75b6&style=flat" alt="matireczunio" /> </p>
 
@@ -7,17 +7,13 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/matireczunio/Portfolio)
 
-- 🌱 I’m currently learning **Python, C#**
+- 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://matireczek.ct8.pl](https://matireczek.ct8.pl)
+- 💬 Ask me about **HTML, CSS and JS**
 
-- 📝 I regularly write articles on [https://www.liczniknews.ga/](https://www.liczniknews.ga/)
+- 📫 How to reach me **matt@licznikcorp.online**
 
-- 💬 Ask me about **HTML and CSS**
-
-- 📫 How to reach me **matireczek.kontakt@gmail.com**
-
-- ⚡ Fun fact **I love playing Minecraft (and Making discord bots)**
+- ⚡ Fun fact **I am a big fan of basketball!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
