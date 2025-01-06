@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS and JS**
 
-- 📫 How to reach me **matt@licznikcorp.online**
+- 📫 How to reach me **admin@matireczek.ovh**
 
 - ⚡ Fun fact **I am a big fan of basketball!**
 
@@ -21,8 +21,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/matireczek"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matireczunio&show_icons=true&locale=en&layout=compact"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matir1217&show_icons=true&locale=en&layout=compact"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matireczunio&show_icons=true&locale=en" alt="matireczunio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matir1217&show_icons=true&locale=en" alt="matireczunio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matireczunio&" alt="Zdjęcie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matir1217&" alt="Zdjęcie" /></p>
